@@ -1,0 +1,2 @@
+# The-Reporter-Application
+ This project was built as a semester final project for FYP Course at Iqra University (Main-Campus). I spent several hours on this and studied plenty of documentation to build a seemless and efficient application. This app is  developed by me (Abdul Rehman Khan) and my Group members Mubashir Noor, Maaz Bin Rashid & Dhara Kumari and it mainly focuses on UI/UX standards of Norman and Schneiderman.
