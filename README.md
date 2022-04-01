@@ -27,7 +27,7 @@ Password: 123456
 3- Then type 'npm install'
 4- Then type 'npm run build'
 5- Then type 'npm run start'
-6- If any dpeedencies issue found use command in terminal 'npm audit fix' and 'npm i'
+6- If any dependencies issue found use command in terminal 'npm audit fix' and 'npm i'
 
 
 # Special Thanks
