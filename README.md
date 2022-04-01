@@ -1,5 +1,5 @@
 
-## FInal Year Project - Iqra University - Main Campus
+## Final Year Project - Iqra University - Main Campus
 
 ## Admin Panel & Live Complaint System of The Reporter Application
 
